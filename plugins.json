@@ -1,0 +1,16 @@
+[
+    {
+        "fileHash": "sha256-37ed28129a7b0da7df12be4a5593d5d81c8aed19b63cd2c234aa6f40f6ed4967",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/PRAKASH000000/TestPlugins",
+        "fileSize": 2605,
+        "status": 3,
+        "authors": [
+            
+        ],
+        "version": -1,
+        "internalName": "CinemaOS",
+        "url": "https://raw.githubusercontent.com/PRAKASH000000/TestPlugins/builds/CinemaOS.cs3",
+        "name": "CinemaOS"
+    }
+]
